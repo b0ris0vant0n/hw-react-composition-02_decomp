@@ -1,7 +1,7 @@
-/* Поиск */
-
 import React from "react";
 import PropTypes from "prop-types";
+
+/* Данный компонент отвечает за рекламный баннер*/
 
 export default function Banner(props) {
   const { img, href } = props;

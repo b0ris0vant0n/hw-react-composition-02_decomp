@@ -1,8 +1,8 @@
-/* Сток валют */
-
 import React from "react";
 
-export default function Stocks() {
+/* Компонент Currency отвечает за показ курсов валют. */
+
+export default function Currency() {
   return (
     <React.Fragment>
       <a href="#">USD MOEX</a>
